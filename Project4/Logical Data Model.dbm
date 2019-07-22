@@ -19,6 +19,9 @@
             <children xsi:type="notation:Shape" xmi:id="_drnEYlR6EemE1oDUnG7ngQ" type="Column" element="_dsTn81R6EemE1oDUnG7ngQ" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_drnEY1R6EemE1oDUnG7ngQ"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_WPZKoKyDEemagpRiJ5qbZQ" type="Column" element="_CtR14KyDEemagpRiJ5qbZQ" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_WPZKoayDEemagpRiJ5qbZQ"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_drmdU1R6EemE1oDUnG7ngQ" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_drmdVFR6EemE1oDUnG7ngQ" visible="false" type="Index.Compartment">
@@ -51,6 +54,9 @@
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_dsTn81R6EemE1oDUnG7ngQ" name="ID" defaultValue="">
       <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_dsTn9FR6EemE1oDUnG7ngQ" name="CHAR" length="5"/>
+    </columns>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_CtR14KyDEemagpRiJ5qbZQ" name="try">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_CtR14ayDEemagpRiJ5qbZQ" name="CHAR" length="5"/>
     </columns>
     <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_dsUPAFR6EemE1oDUnG7ngQ" name="ENTITY1_PK" members="_dsTn8VR6EemE1oDUnG7ngQ"/>
   </LUW:LUWTable>
