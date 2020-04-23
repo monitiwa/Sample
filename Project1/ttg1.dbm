@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:DB2Model="http:///com/ibm/db/models/db2/db2.ecore" xmlns:SQLDataTypes="http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore" xmlns:datanotation="http:///datanotation.ecore" xmlns:ilvglnotation="http://www.ilog.com/views/8.5.0/LayoutNotationExtensionDefinition" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:zSeries="http:///com/ibm/db/models/db2/zSeries.ecore">
+  <zSeries:ZSeriesDatabase xmi:id="_J0YHIGhOEeqmx6UGQlBCbA" name="Location" vendor="DB2 UDB zSeries" version="V11 (New-Function Mode)" schemas="_J6TwAGhOEeqmx6UGQlBCbA"/>
+  <DB2Model:DB2Schema xmi:id="_J6TwAGhOEeqmx6UGQlBCbA" name="Schema" tables="_MaxhoGhOEeqmx6UGQlBCbA" database="_J0YHIGhOEeqmx6UGQlBCbA">
+    <eAnnotations xmi:id="_J6XaYGhOEeqmx6UGQlBCbA" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_J6XaYWhOEeqmx6UGQlBCbA" type="IE_CrowFoot" name="Diagram1" viewKind="ProjectExplorer" notation="IE_CrowFoot" kind="Physical">
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_J6XaYmhOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_J6XaY2hOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_J6XaZGhOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_J6XaZWhOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_J6XaZmhOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_J6XaZ2hOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_J6XaaGhOEeqmx6UGQlBCbA" sortingKeys="Natural:Ascending"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_J6XaaWhOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="datanotation:ConnectionLayerStyle" xmi:id="_J6XaamhOEeqmx6UGQlBCbA"/>
+        <styles xsi:type="ilvglnotation:LayoutStyle" xmi:id="_J6Xaa2hOEeqmx6UGQlBCbA" graphLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.8.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>layout&lt;/string>&#xA;   &lt;string>ilog.views.eclipse.graphlayout.runtime.hierarchical.IlvHierarchicalLayout&lt;/string>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>globalLinkStyle&lt;/string>&#xA;   &lt;int>2&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>flowDirection&lt;/string>&#xA;   &lt;int>4&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>levelingStrategy&lt;/string>&#xA;   &lt;int>1&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalNodeLinkOffset&lt;/string>&#xA;   &lt;float>500.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalLinkOffset&lt;/string>&#xA;   &lt;float>150.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>levelJustification&lt;/string>&#xA;   &lt;int>16&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalNodeOffset&lt;/string>&#xA;   &lt;float>1000.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalLinkOffset&lt;/string>&#xA;   &lt;float>150.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalNodeLinkOffset&lt;/string>&#xA;   &lt;float>500.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalNodeOffset&lt;/string>&#xA;   &lt;float>1000.0&lt;/float>&#xA;  &lt;/void>&#xA; &lt;/object>&#xA;&lt;/java>&#xA;" linkLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.8.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;/>&#xA;&lt;/java>&#xA;" labelLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.8.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;/>&#xA;&lt;/java>&#xA;"/>
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </DB2Model:DB2Schema>
+  <zSeries:ZSeriesTable xmi:id="_MaxhoGhOEeqmx6UGQlBCbA" name="t1" schema="_J6TwAGhOEeqmx6UGQlBCbA">
+    <columns xsi:type="zSeries:ZSeriesColumn" xmi:id="_NvNlAGhOEeqmx6UGQlBCbA" name="name">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_NvNlAWhOEeqmx6UGQlBCbA" name="CHAR" length="5"/>
+    </columns>
+  </zSeries:ZSeriesTable>
+</xmi:XMI>
