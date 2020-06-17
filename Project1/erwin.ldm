@@ -965,7 +965,7 @@
     <attributes xmi:id="_3Z2dQ4oSEeqpZMge0ciAHQ" name="Id/1" description="" label="Id" dataType="VARCHAR(255)" required="true"/>
     <attributes xmi:id="_3Z2dRIoSEeqpZMge0ciAHQ" name="Id" description="" label="AgentId" dataType="VARCHAR(255)" required="true"/>
     <attributes xmi:id="_3Z2dRYoSEeqpZMge0ciAHQ" name="Name_testing" description="" label="Name" dataType="VARCHAR(255)"/>
-    <attributes xmi:id="_3Z2dRooSEeqpZMge0ciAHQ" name="NickName_testing" description="" label="NickName" dataType="VARCHAR(255)"/>
+    <attributes xmi:id="_3Z2dRooSEeqpZMge0ciAHQ" name="NickName_testing_new" description="" label="NickName" dataType="VARCHAR(255)"/>
     <attributes xmi:id="_3Z2dR4oSEeqpZMge0ciAHQ" name="AgentName" description="" label="AgentName" dataType="VARCHAR(255)"/>
     <attributes xmi:id="_3Z2dSIoSEeqpZMge0ciAHQ" name="AgentNickName" description="" label="AgentNickName" dataType="VARCHAR(255)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_3Z2dSYoSEeqpZMge0ciAHQ" name="XPKAgentGroupMembers" description="" label="XPKAgentGroupMembers" attributes="_3Z2dQ4oSEeqpZMge0ciAHQ _3Z2dRIoSEeqpZMge0ciAHQ"/>

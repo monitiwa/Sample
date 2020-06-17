@@ -338,7 +338,7 @@
     <attributes xmi:id="_GFnY6I7OEeqCPYm5xW6OTQ" name="Id/1" description="" label="Id" dataType="VARCHAR(255)" required="true"/>
     <attributes xmi:id="_GFnY6Y7OEeqCPYm5xW6OTQ" name="Id" description="" label="AgentId" dataType="VARCHAR(255)" required="true"/>
     <attributes xmi:id="_GFnY6o7OEeqCPYm5xW6OTQ" name="NameTesting" description="" label="Name" dataType="VARCHAR(255)"/>
-    <attributes xmi:id="_GFnY647OEeqCPYm5xW6OTQ" name="NickName_testing" description="" label="NickName" dataType="VARCHAR(255)"/>
+    <attributes xmi:id="_GFnY647OEeqCPYm5xW6OTQ" name="NickName_testing_new" description="" label="NickName" dataType="VARCHAR(255)"/>
     <attributes xmi:id="_GFnY7I7OEeqCPYm5xW6OTQ" name="AgentName" description="" label="AgentName" dataType="VARCHAR(255)"/>
     <attributes xmi:id="_GFnY7Y7OEeqCPYm5xW6OTQ" name="AgentNickName" description="" label="AgentNickName" dataType="VARCHAR(255)"/>
     <attributes xmi:id="_GFnY7o7OEeqCPYm5xW6OTQ" name="Eff_TMSTP" description="" label="Eff_TMSTP" dataType="CHAR(0)" required="true"/>

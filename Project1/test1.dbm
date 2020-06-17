@@ -24410,7 +24410,7 @@
     <columns xsi:type="LUW:LUWColumn" xmi:id="_rqlowLB9EeqqENr0bwoXbw" name="testing">
       <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_rqlowbB9EeqqENr0bwoXbw" name="CHAR" length="5"/>
     </columns>
-    <columns xsi:type="LUW:LUWColumn" xmi:id="_yAu2ALB-EeqqENr0bwoXbw" name="testing2">
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_yAu2ALB-EeqqENr0bwoXbw" name="testing2_new">
       <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_yAu2AbB-EeqqENr0bwoXbw" name="CHAR" length="5"/>
     </columns>
     <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_GQ1Kao7OEeqCPYm5xW6OTQ" name="XPKAgentGroupMembers" description="" label="XPKAgentGroupMembers" members="_GQ1KYY7OEeqCPYm5xW6OTQ _GQ1KXo7OEeqCPYm5xW6OTQ"/>
